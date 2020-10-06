@@ -10,3 +10,5 @@ After First Time {i.e Second And Other} :
 1. python Botnet.py
 
 All Copyrights Reserved By @ERR0Rxx.
+
+[![Run on Repl.it](https://repl.it/badge/github/SUFIHSR/BotNet)](https://repl.it/github/SUFIHSR/BotNet)
